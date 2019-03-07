@@ -1,0 +1,49 @@
+Information repository
+=============================
+
+This dataset contains all files needed for the week 4 submission of the Data Science Coursera course by John Hopkins
+The relevant files are:
+- run_analysis.R	: this contains all R scripts needed to produce the tidy output dataset
+- output.txt		: this contains the tidy output dataset
+
+
+
+Feature information
+==========================
+Below is listed all the features included in the tidy output dataset.
+All features are mean variables over the subject and activity of the original dataset (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+	subject_id 							
+	activity
+	time_body_accelaration_mean_X
+	time_body_accelaration_mean_Y
+	time_body_accelaration_mean_Z
+	time_gravity_accelaration_mean_X
+	time_gravity_accelaration_mean_Y
+	time_gravity_accelaration_mean_Z
+	time_body_accelarationJerk_mean_X
+	time_body_accelarationJerk_mean_Y
+	time_body_accelarationJerk_mean_Z
+	time_body_gyroscope_mean_X
+	time_body_gyroscope_mean_Y
+	time_body_gyroscope_mean_Z
+	time_body_gyroscopeJerk_mean_X
+	time_body_gyroscopeJerk_mean_Y
+	time_body_gyroscopeJerk_mean_Z
+	time_body_accelarationMag_mean
+	time_gravity_accelarationMag_mean
+	time_body_accelarationJerkMag_mean
+	time_body_gyroscopeMag_mean
+	time_body_gyroscopeJerkMag_mean
+	fft_body_accelaration_mean_X
+	fft_body_accelaration_mean_Y
+	fft_body_accelaration_mean_Z
+	fft_body_accelarationJerk_mean_X
+	fft_body_accelarationJerk_mean_Y
+	fft_body_accelarationJerk_mean_Z
+	fft_body_gyroscope_mean_X
+	fft_body_gyroscope_mean_Y
+	fft_body_gyroscope_mean_Z
+	fft_body_accelarationMag_mean
+	fBodyBodyAccJerkMag_mean
+	fBodyBodyGyroMag_mean
+	fBodyBodyGyroJerkMag_mean
